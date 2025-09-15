@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     int n;
     cout<<"Nhap n: ";
+    cout<< "xin chao ca nha";
     cin>>n;
     for(int i=1;i<=n;i++){
         for(int j=1;j<=i;j++){
